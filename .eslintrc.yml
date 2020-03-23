@@ -6,7 +6,6 @@ env:
   node: true
 
 extends:
-  - 'airbnb-base'
   - 'plugin:jest/recommended'
 
 globals:
