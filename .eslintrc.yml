@@ -5,8 +5,10 @@ env:
   es6: true
   node: true
 
-extends: 
+extends:
   - 'airbnb-base'
+  - 'plugin:jest/recommended'
+
 globals:
   Atomics: readonly
   SharedArrayBuffer: readonly
