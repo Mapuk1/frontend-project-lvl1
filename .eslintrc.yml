@@ -1,24 +1,16 @@
----
-
 env:
   browser: true
   es6: true
   node: true
-
-extends:
-  - 'airbnb-base'
-  - 'plugin:jest/recommended'
-
+extends: 'eslint:recommended'
 globals:
   Atomics: readonly
   SharedArrayBuffer: readonly
-
 parserOptions:
   ecmaVersion: 2018
   sourceType: module
-
 rules:
   no-console: 0
   import/extensions: 0
   semi: ["error", "always"]
-  quotes: ["error", "double"]
+  quotes: ["error", "double"]}
