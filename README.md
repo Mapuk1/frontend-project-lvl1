@@ -5,4 +5,4 @@
 [![Node CI](https://github.com/Mapuk1/frontend-project-lvl1/workflows/CI/badge.svg)](https://github.com/Mapuk1/frontend-project-lvl1/actions)
 
 To start playing "brain-even" type "brain-even" in the terminal
-[![asciicast](https://asciinema.org/a/hpmncEJezOPoXGZtvePBYyMEx.png)](https://asciinema.org/a/hpmncEJezOPoXGZtvePBYyMEx)
+[![asciicast](https://asciinema.org/a/hpmncEJezOPoXGZtvePBYyMEx.svg)](https://asciinema.org/a/hpmncEJezOPoXGZtvePBYyMEx)
