@@ -9,3 +9,6 @@ To install the game, clone the repository. In the directory of the cloned reposi
 
 To start playing "brain-even" type "brain-even" in the terminal
 [![asciicast](https://asciinema.org/a/hpmncEJezOPoXGZtvePBYyMEx.svg)](https://asciinema.org/a/hpmncEJezOPoXGZtvePBYyMEx)
+
+To start playing "brain-calc" type "brain-calc" in the terminal
+[![asciicast](https://asciinema.org/a/VrO1wZfdflZq1zZYli52zlooI.svg)](https://asciinema.org/a/VrO1wZfdflZq1zZYli52zlooI)
