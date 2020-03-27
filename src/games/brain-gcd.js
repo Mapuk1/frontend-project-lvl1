@@ -4,8 +4,8 @@ import randomNum from '../randomNum.js'
 export default () => {
   const rules = 'Find the greatest common divisor of given numbers.';
   const gameData = () => {
-    const num1 = randomNum();
-    const num2 = randomNum();
+    const num1 = randomNum(1);
+    const num2 = randomNum(1);
   
     const gcd = (num, divisor) => {
       if (num % divisor === 0) {

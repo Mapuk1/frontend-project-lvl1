@@ -15,3 +15,6 @@ To start playing "brain-calc" type "brain-calc" in the terminal
 
 To start playing "brain-gcd" type "brain-gcd" in the terminal
 [![asciicast](https://asciinema.org/a/wB1pXLj4BDv4wScWIcoJq58Zh.svg)](https://asciinema.org/a/wB1pXLj4BDv4wScWIcoJq58Zh)
+
+To start playing "brain-progression" type "brain-progression" in the terminal
+[![asciicast](https://asciinema.org/a/b3Isu89cUmDGrdSKwoVetbvcH.svg)](https://asciinema.org/a/b3Isu89cUmDGrdSKwoVetbvcH)
