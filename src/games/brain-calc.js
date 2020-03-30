@@ -8,7 +8,7 @@ export default () => {
     const operations = ['*', '+', '-'];
 		const num1 = giveRandomNum();
 		const num2 = giveRandomNum();
-		const operation = operations[giveRandomNum(operations.length)]; 
+		const operation = operations[giveRandomNum(0, operations.length - 1)]; 
 		const question = `${num1} ${operation} ${num2}`;
 		const answer = () => {
 			if (operation === '*') {
