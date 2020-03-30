@@ -18,3 +18,6 @@ To start playing "brain-gcd" type "brain-gcd" in the terminal
 
 To start playing "brain-progression" type "brain-progression" in the terminal
 [![asciicast](https://asciinema.org/a/b3Isu89cUmDGrdSKwoVetbvcH.svg)](https://asciinema.org/a/b3Isu89cUmDGrdSKwoVetbvcH)
+
+To start playing "brain-prime" type "brain-prime" in the terminal
+[![asciicast](https://asciinema.org/a/smdLuOJsfxxKT5EiaPfiF3NSR.svg)](https://asciinema.org/a/smdLuOJsfxxKT5EiaPfiF3NSR)
