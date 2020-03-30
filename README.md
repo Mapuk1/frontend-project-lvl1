@@ -8,7 +8,7 @@ To install the game, clone the repository. In the directory of the cloned reposi
 [![asciicast](https://asciinema.org/a/4KrqnDkRh2C7zsTureWzwrTTO.svg)](https://asciinema.org/a/4KrqnDkRh2C7zsTureWzwrTTO)
 
 To start playing "brain-even" type "brain-even" in the terminal
-[![asciicast](https://asciinema.org/a/hpmncEJezOPoXGZtvePBYyMEx.svg)](https://asciinema.org/a/hpmncEJezOPoXGZtvePBYyMEx)
+[![asciicast](https://asciinema.org/a/3cmqsbyzbtLO3DsUL0LNQi0Pc.svg)](https://asciinema.org/a/3cmqsbyzbtLO3DsUL0LNQi0Pc)
 
 To start playing "brain-calc" type "brain-calc" in the terminal
 [![asciicast](https://asciinema.org/a/VrO1wZfdflZq1zZYli52zlooI.svg)](https://asciinema.org/a/VrO1wZfdflZq1zZYli52zlooI)
