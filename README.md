@@ -14,10 +14,10 @@ To start playing "brain-calc" type "brain-calc" in the terminal
 [![asciicast](https://asciinema.org/a/SWK7S5N75RFwS2OTcOgQhCsTE.svg)](https://asciinema.org/a/SWK7S5N75RFwS2OTcOgQhCsTE)
 
 To start playing "brain-gcd" type "brain-gcd" in the terminal
-[![asciicast](https://asciinema.org/a/wB1pXLj4BDv4wScWIcoJq58Zh.svg)](https://asciinema.org/a/wB1pXLj4BDv4wScWIcoJq58Zh)
+[![asciicast](https://asciinema.org/a/Mbk90mKH7B2uYk9C0J1Dk8Z0L.svg)](https://asciinema.org/a/Mbk90mKH7B2uYk9C0J1Dk8Z0L)
 
 To start playing "brain-progression" type "brain-progression" in the terminal
 [![asciicast](https://asciinema.org/a/b3Isu89cUmDGrdSKwoVetbvcH.svg)](https://asciinema.org/a/b3Isu89cUmDGrdSKwoVetbvcH)
 
 To start playing "brain-prime" type "brain-prime" in the terminal
-[![asciicast](https://asciinema.org/a/smdLuOJsfxxKT5EiaPfiF3NSR.svg)](https://asciinema.org/a/smdLuOJsfxxKT5EiaPfiF3NSR)
+[![asciicast](https://asciinema.org/a/QtCDzhTMmJMCJsnSxT8OXOXQI.svg)](https://asciinema.org/a/QtCDzhTMmJMCJsnSxT8OXOXQI)
