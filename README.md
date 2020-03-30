@@ -11,7 +11,7 @@ To start playing "brain-even" type "brain-even" in the terminal
 [![asciicast](https://asciinema.org/a/3cmqsbyzbtLO3DsUL0LNQi0Pc.svg)](https://asciinema.org/a/3cmqsbyzbtLO3DsUL0LNQi0Pc)
 
 To start playing "brain-calc" type "brain-calc" in the terminal
-[![asciicast](https://asciinema.org/a/VrO1wZfdflZq1zZYli52zlooI.svg)](https://asciinema.org/a/VrO1wZfdflZq1zZYli52zlooI)
+[![asciicast](https://asciinema.org/a/SWK7S5N75RFwS2OTcOgQhCsTE.svg)](https://asciinema.org/a/SWK7S5N75RFwS2OTcOgQhCsTE)
 
 To start playing "brain-gcd" type "brain-gcd" in the terminal
 [![asciicast](https://asciinema.org/a/wB1pXLj4BDv4wScWIcoJq58Zh.svg)](https://asciinema.org/a/wB1pXLj4BDv4wScWIcoJq58Zh)
