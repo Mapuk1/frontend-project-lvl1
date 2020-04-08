@@ -16,7 +16,7 @@ export default () => {
       }
       return 'yes';
     };
-    return [question, answer(question)];
+    return [question, String(answer(question))];
   };
   game(rules, gameData);
 };

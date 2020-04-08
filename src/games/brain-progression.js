@@ -19,7 +19,7 @@ export default () => {
     const answer = newArr.splice(hidden, 1, '..');
     const str = newArr.toString().replace(/,/gi, ' ');
     const question = str;
-    return [question, answer];
+    return [question, String(answer)];
   };
   game(rules, gameData);
 };
