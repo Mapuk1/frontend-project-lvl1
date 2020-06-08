@@ -3,9 +3,9 @@ import randomNum from '../randomNum.js';
 import game from '../index.js';
 
 export default () => {
-  const rules = 'Answer "yes" if given number is prime. Otherwise answer "no".';
+  const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
-  const gameData = () => {
+  const getGameData = () => {
     const question = randomNum(2, 1000);
 
     const answer = (num) => {
@@ -18,5 +18,5 @@ export default () => {
     };
     return [question, String(answer(question))];
   };
-  game(rules, gameData);
+  game(description, getGameData);
 };
