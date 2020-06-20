@@ -4,20 +4,20 @@ import runGame from '../index.js';
 
 const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
-const checkNumber = (num) => {
-  for (let i = 2; i <= num / 2; i += 1) {
-    if (num % i === 0) {
+const isPrime = (num) => {
+  if (num <= 1) {
+    return false;
+  }
+  for (let div = 2; div <= num / 2; div += 1) {
+    if (num % div === 0) {
       return false;
     }
   }
   return true;
 };
-
-export default () => {
-  const getGameData = () => {
-    const question = randomNum(2, 1000);
-    const answer = checkNumber(question) ? 'yes' : 'no';
-    return [question, String(answer)];
-  };
-  runGame(description, getGameData);
+const getGameData = () => {
+  const question = randomNum(-10, 100);
+  const answer = isPrime(question) ? 'yes' : 'no';
+  return [String(question), answer];
 };
+export default () => runGame(description, getGameData);
