@@ -5,11 +5,11 @@ const description = 'What number is missing in the progression?';
 const lengthOfProgression = 10;
 
 const makeProgression = (startNum, interval, length) => {
-  const arr = [];
+  const progression = [];
   for (let step = 0; step < length; step += 1) {
-    arr.push(startNum + interval * step);
+    progression.push(startNum + interval * step);
   }
-  return arr;
+  return progression;
 };
 const getGameData = () => {
   const firstNum = randomNum(0, 10);
