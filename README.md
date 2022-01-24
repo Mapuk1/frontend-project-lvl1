@@ -6,3 +6,6 @@
 
 ### eslint
 [![eslint-check](https://github.com/Mapuk1/frontend-project-lvl1/actions/workflows/eslint-check.yml/badge.svg)](https://github.com/Mapuk1/frontend-project-lvl1/actions/workflows/eslint-check.yml)
+
+### brain-even
+[![asciicast](https://asciinema.org/a/HRYCx7MuaH5Dps0UDtUCO81OE.svg)](https://asciinema.org/a/HRYCx7MuaH5Dps0UDtUCO81OE)
