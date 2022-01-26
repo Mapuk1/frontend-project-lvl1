@@ -1,4 +1,5 @@
 import game from '../index.js';
+import getRandomIntInclusive from '../math.js';
 
 const rule = 'Find the greatest common divisor of given numbers.';
 
@@ -7,12 +8,6 @@ const getGcd = (num1, num2) => {
     return getGcd(num2 % num1, num1);
   }
   return num2;
-};
-
-const getRandomIntInclusive = (min, max) => {
-  const num1 = Math.ceil(min);
-  const num2 = Math.floor(max);
-  return Math.floor(Math.random() * (num2 - num1 + 1)) + num1;
 };
 
 const getGameData = () => {
