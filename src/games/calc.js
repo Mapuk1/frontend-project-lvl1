@@ -1,13 +1,9 @@
 import game from '../index.js';
+import getRandomIntInclusive from '../math.js';
 
 const rule = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];
 
-const getRandomIntInclusive = (min, max) => {
-  const num1 = Math.ceil(min);
-  const num2 = Math.floor(max);
-  return Math.floor(Math.random() * (num2 - num1 + 1)) + num1;
-};
 const getExpression = (num1, num2, operator) => {
   switch (operator) {
     case '+':
