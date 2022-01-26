@@ -19,11 +19,11 @@ const game = (rule, gameData, steps = 3) => {
     const userAnswer = readLineSync.question('Your answer: ');
 
     if (userAnswer !== correctAnswer) {
-      const wrong = `'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'\nLet's try again, ${userName}`;
+      const wrong = `'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'\nLet's try again, ${userName}!`;
       return console.log(wrong);
     }
     console.log('Correct!');
   }
-  return console.log(`Congratulations, ${userName}!`)
+  return console.log(`Congratulations, ${userName}!`);
 };
 export default game;
