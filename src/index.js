@@ -23,7 +23,10 @@ const game = (rule, gameData, steps = 3) => {
       return console.log(wrong);
     }
     console.log('Correct!');
+    if (step === steps) {
+      return console.log(`Congratulations, ${userName}`);
+    }
   }
-  return console.log(`Congratulations, ${userName}`);
+  return console.log('!!!!!!!!!!!!!!!!');
 };
 export default game;
