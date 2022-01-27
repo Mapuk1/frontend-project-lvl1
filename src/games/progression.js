@@ -5,14 +5,13 @@ const rule = 'What number is missing in the progression?';
 
 const getGameData = () => {
   const progression = getRandomIntInclusive(5, 10);
-  let startValue = getRandomIntInclusive(0, 20);
+  const startValue = getRandomIntInclusive(0, 20);
   const line = [];
-  line.push(startValue);
-  const increase = getRandomIntInclusive(2, 5);
+  const increaseCurrent = getRandomIntInclusive(2, 5);
 
   for (let i = 0; i < progression; i += 1) {
-    startValue += increase;
-    line.push(startValue);
+    const result = startValue + (increaseCurrent * i);
+    line.push(result);
   }
 
   const hiddenValueIndex = getRandomIntInclusive(0, line.length - 1);

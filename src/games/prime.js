@@ -21,6 +21,6 @@ const getGameData = () => {
   const answer = isPrime(num) ? 'yes' : 'no';
   return [question, answer];
 };
-const brainProgression = () => game(rule, getGameData);
+const brainPrime = () => game(rule, getGameData);
 
-export default brainProgression;
+export default brainPrime;
